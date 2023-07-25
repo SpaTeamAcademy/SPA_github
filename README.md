@@ -3,4 +3,4 @@ Tutorial repository for GitHub practices and excercises
 
 ## Enter your initials and a message here:
 
-M.H. - initial commit
+M.H. - initial commit; Access required
