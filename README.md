@@ -5,3 +5,4 @@ Tutorial repository for GitHub practices and excercises
 
 M.H. - initial commit;
 P.P. - pull request;
+A.S. - fooling around;
